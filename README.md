@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xoism
-- 👀 I’m interested in data engineering, privacy, and security
+- 👀 I’m interested in data engineering, privacy, security, and web3
 - 🌱 I’m currently learning everything I can
 
 <!---
